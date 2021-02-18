@@ -1,0 +1,11 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÍ¨8èêĞ“å.
+Gsquid:S1481")Remove this unused "line" local variable.(ÔÉ¢‹8öìö“å.
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼íù“å.
+dsquid:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¼íù“å.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8éˆ¿“å.
+Vsquid:S1854"8Remove this useless assignment to local variable "line".(ÔÉ¢‹8öìö“å.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éˆ¿“å.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8·˜ø“å.

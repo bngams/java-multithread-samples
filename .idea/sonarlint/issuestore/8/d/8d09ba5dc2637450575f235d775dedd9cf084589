@@ -1,0 +1,17 @@
+
+Osquid:S1602",Remove useless curly braces around statement(ÿ¶ÅŠıÿÿÿÿ8ÏŸ„Œå.
+gsquid:S2147("DCombine this catch with the one at line 38, which has the same body.(åşŒóùÿÿÿÿ8¸ÃšŒå.
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ëğºŒå.
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ÃšŒå.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÕÔıÿÿÿÿ8¡äÉ‹å.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎË–8ÏŸ„Œå.
+dsquid:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¸ÃšŒå.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëğºŒå.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶Â·Ø8 ŠÕ‹å.
+Jsquid:S1602",Remove useless curly braces around statement(¥—ığ8 ŠÕ‹å.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(äüÑüÿÿÿÿ8¸ÃšŒå.
+Fsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·ÃšŒå.

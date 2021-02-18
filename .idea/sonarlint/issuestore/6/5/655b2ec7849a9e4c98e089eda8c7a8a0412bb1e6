@@ -1,0 +1,19 @@
+
+bsquid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ş¸À—8šº”å.
+Osquid:S1481"2Remove this unused "linesToHandle" local variable.(¼¯Œ8Ó™Œ”å.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¼éÌ“å.
+Psquid:S3958'"2Refactor the code so this stream pipeline is used.(ï­£Ä8šº”å.
+bsquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Æœ§,8šº”å.
+^squid:S1854"ARemove this useless assignment to local variable "linesToHandle".(¼¯Œ8Ó™Œ”å.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¼éÌ“å.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıÆğ8ÇÔ§”å.
+Osquid:S3958"2Refactor the code so this stream pipeline is used.(¼¯Œ8šº”å.
+[squid:S1854"=Remove this useless assignment to local variable "outWriter".(ÌÛÿè8‚•³“å.
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•³“å.
+Lsquid:S1481".Remove this unused "outWriter" local variable.(ÌÛÿè8‚•³“å.
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(’ôÆà8Ğ•Ù“å.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Àûå 8Ğ•Ù“å.
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼îÜ“å.
+~squid:S1192"`Define a constant instead of duplicating this literal "src/main/resources/big-file.txt" 3 times.(ş¸À—8 ê„”å.

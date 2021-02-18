@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/MySimpleRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/MySimpleThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/demo/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/demo/MySimpleRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/demo/MySimpleThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo1/Counter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo1/Exo1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo2/Counter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo2/Exo2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo3/Operation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo5/FileHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo5/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo6/LineHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo6/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo6/OutputWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo6/Reader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/big-file.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file1.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file2.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file3.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file4.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file5.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file6.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file7.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/file-output.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/fr/aelion/java2012/multithreadingintro/exo1/Exo1Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Avance-GFI-2102/multithreadintro/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Avance-GFI-2102/multithreadintro/src/main/java/fr/aelion/java/gfi/multithreadintro/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Avance-GFI-2102/multithreadintro/src/main/java/fr/aelion/java/gfi/multithreadintro/threads/MyCustomRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Avance-GFI-2102/multithreadintro/src/main/java/fr/aelion/java/gfi/multithreadintro/threads/MyCustomThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
