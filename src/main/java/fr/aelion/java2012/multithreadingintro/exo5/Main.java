@@ -19,7 +19,7 @@ public class Main {
         // parallelInts();
         // filesWithParallel();
         filesWithExecutor();
-
+        System.exit(0);
     }
 
     public static void filesWithParallel() {
@@ -51,6 +51,8 @@ public class Main {
                         ex.submit(() -> FileHandler.handleFile(filePath.toFile(), outWriter));
                     });
             System.out.println("Stream done");
+            // stop executor to accept other tasks
+            ex.shutdown();
             ex.awaitTermination(15, TimeUnit.SECONDS);
             System.out.println("Executor done");
             outWriter.close();

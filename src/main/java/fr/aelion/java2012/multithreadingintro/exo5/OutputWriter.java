@@ -12,10 +12,15 @@ public class OutputWriter {
     public OutputWriter(File f) throws FileNotFoundException, UnsupportedEncodingException {
         this.f = f;
         this.writer = new PrintWriter(f, "UTF-8");
+        writer.flush();
     }
 
     public synchronized void writeLine(String s) {
         this.writer.println(s);
+    }
+
+    public synchronized void flush() {
+        this.writer.flush();
     }
 
     public void close() {

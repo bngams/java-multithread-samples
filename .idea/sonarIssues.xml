@@ -73,6 +73,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo5/OutputWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo5bis/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo5bis/OutputWriter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo5bis/ReadFileRunnable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/fr/aelion/java2012/multithreadingintro/exo6/LineHandler.java">
           <value>
             <set />
@@ -129,6 +149,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/exo5/input/file7.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/exo5/output.txt">
           <value>
             <set />
           </value>
