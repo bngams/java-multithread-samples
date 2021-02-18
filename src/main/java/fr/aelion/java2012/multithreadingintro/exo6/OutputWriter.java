@@ -16,6 +16,7 @@ public class OutputWriter {
 
     public synchronized void writeLine(String s) {
         this.writer.println(s);
+        this.writer.flush();
     }
 
     public void close() {

@@ -17,16 +17,17 @@ public class Reader implements Runnable {
     public void run() {
         boolean hasNext = true;
         while (hasNext) {
+            String line = "";
             System.out.println("read with " + Thread.currentThread().getName());
             hasNext = false;
             synchronized (scanner) {
                 if (scanner.hasNext()) {
                     hasNext = true;
-                    String line = scanner.nextLine();
-                    handleLine(line);
+                    line = scanner.nextLine();
                     ++lineReaded;
                 }
             }
+            handleLine(line);
         }
     }
 

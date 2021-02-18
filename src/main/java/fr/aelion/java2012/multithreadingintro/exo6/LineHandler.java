@@ -3,12 +3,7 @@ package fr.aelion.java2012.multithreadingintro.exo6;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-public class LineHandler implements Runnable {
-
-    @Override
-    public void run() {
-
-    }
+public class LineHandler {
 
     public static String handleLine(String line) {
         try {
