@@ -14,13 +14,28 @@ public class OutputWriter {
         this.writer = new PrintWriter(f, "UTF-8");
     }
 
+    /**
+     * This is JAVADOC
+     * @param String s
+     * @return void
+     */
     public synchronized void writeLine(String s) {
         this.writer.println(s);
         this.writer.flush();
     }
 
+    /**
+     * This is JAVADOC
+     * @return void
+     */
     public void close() {
         this.writer.close();
     }
 
+    @Override
+    public String toString() {
+        return "OutputWriter{" +
+                "f=" + f +
+                '}';
+    }
 }

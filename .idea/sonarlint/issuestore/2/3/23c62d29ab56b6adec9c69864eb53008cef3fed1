@@ -1,10 +1,10 @@
 
->squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
 ^squid:S1854";Remove this useless assignment to local variable "balance".(¢”Äîúÿÿÿÿ8œ¡ñå.
+>squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8œ¡ñå.
 @squid:S2140")Use "java.util.Random.nextInt()" instead.(ğÂŒÆ
 T
 squid:S106$"9Replace this use of System.out or System.err by a logger.(ßÉÜ½øÿÿÿÿ
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8œ¡ñå.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ

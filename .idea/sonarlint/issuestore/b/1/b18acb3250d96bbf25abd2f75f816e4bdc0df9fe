@@ -1,13 +1,13 @@
 
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ñ²ŠÊ
 ]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
 bsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(Úâ…øÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(Úâ…øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(öğ×Áøÿÿÿÿ
 O
 squid:S106 "9Replace this use of System.out or System.err by a logger.(šâØ°
 Esquid:S2140")Use "java.util.Random.nextInt()" instead.(Úâ…øÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ïŞò‚úÿÿÿÿ
-O
-squid:S106""9Replace this use of System.out or System.err by a logger.(Ñ²ŠÊ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(öğ×Áøÿÿÿÿ
-Qsquid:S2209"5Change this instance-reference to a static reference.(Úâ…øÿÿÿÿ

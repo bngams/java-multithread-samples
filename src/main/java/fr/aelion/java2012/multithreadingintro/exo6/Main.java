@@ -1,5 +1,9 @@
 package fr.aelion.java2012.multithreadingintro.exo6;
 
+import jdk.jfr.DataAmount;
+import lombok.Data;
+import lombok.extern.java.Log;
+
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -9,6 +13,7 @@ import java.util.Scanner;
 import java.util.concurrent.*;
 import java.util.stream.Stream;
 
+@Log
 public class Main {
 
     public static void main(String[] args) {
@@ -20,6 +25,11 @@ public class Main {
             // readWithScanner(inputPath, outputPath);
     }
 
+    /**
+     *
+     * @param inputPath
+     * @param outputPath
+     */
     static void readWithNIO(String inputPath, String outputPath) {
         try {
             // output file writer

@@ -1,0 +1,32 @@
+
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(İ¸Œ8É…Ä¢û.
+osquid:S3457X"Q%n should be used in place of \n to produce the platform-specific line separator.(¥–ëÿ8ö¦Ä¢û.
+osquid:S3457M"Q%n should be used in place of \n to produce the platform-specific line separator.(İ¸Œ8ö¦Ä¢û.
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(¥–ëÿ8É…Ä¢û.
+[
+squid:S106`"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8µÈ¢û.
+gsquid:S20950"DUse try-with-resources or close this "Stream" in a "finally" clause.(ø•¬Öÿÿÿÿÿ8åü’£û.
+tsquid:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(ÜÍñïûÿÿÿÿ8ö¦Ä¢û.
+Fsquid:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûâ—£û.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¹Úÿ˜8ğ¸¦û.
+Msquid:S1611_"/Remove the parentheses around the "i" parameter(åØ÷æ8µÈ¢û.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÀÄûÿÿÿÿ8ÁÔ˜£û.
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ÜÍñïûÿÿÿÿ8É…Ä¢û.
+Jsquid:S16022",Remove useless curly braces around statement(Ìå‘¸8åü’£û.
+dsquid:S2142;"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8Ş€¸¦û.
+osquid:S3457S"Q%n should be used in place of \n to produce the platform-specific line separator.(îëô8ö¦Ä¢û.
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(•ˆÇ8ä’·¦û.
+Fsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8åü’£û.
+gsquid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ø•¬Öÿÿÿÿÿ8ûâ—£û.
+Jsquid:S1602"",Remove useless curly braces around statement(Ìå‘¸8ûâ—£û.
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8µÈ¢û.
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(îëô8É…Ä¢û.
+Dsquid:S3864"!Remove this use of "Stream.peek".(ŠÀÄûÿÿÿÿ8ÁÔ˜£û.

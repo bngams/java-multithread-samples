@@ -31,3 +31,17 @@ s
 Csrc/main/java/fr/aelion/java2012/multithreadingintro/exo6/Main.java,6\5\655b2ec7849a9e4c98e089eda8c7a8a0412bb1e6
 u
 Esrc/main/java/fr/aelion/java2012/multithreadingintro/exo6/Reader.java,3\9\391375635941596d6bee5529bd62e7cac6538a5a
+z
+Jsrc/main/java/fr/aelion/java2012/multithreadingintro/exo5/FileHandler.java,a\a\aa93e57674ecba2875cfcbaf041d4f9075da1070
+s
+Csrc/main/java/fr/aelion/java2012/multithreadingintro/exo5/Main.java,b\c\bcb7ed25602d657d7db4b7b32a48b30071f53e43
+{
+Ksrc/main/java/fr/aelion/java2012/multithreadingintro/exo5/OutputWriter.java,8\e\8ea800786a295fb9ad7671a903fc67f547a7e742
+G
+multithreadingintro.iml,e\4\e4055e2eb9f21f858834da2c2135d9ebaa283c4c
+9
+	file1.txt,c\e\ce1be0ff4065a6e9415095c95f25f47a633cef2b
+;
+outFile.txt,6\5\65d010a369cf93bfd09ca4463269798dc35dddb1
+}
+Msrc/main/java/fr/aelion/java2012/multithreadingintro/exo5Bis/Exo5BisMain.java,c\1\c181d61f28f0c992bf80e4d4ee697aa39401313a

@@ -15,7 +15,12 @@ public class OutputWriter {
         writer.flush();
     }
 
-    public synchronized void writeLine(String s) {
+    public void writeLine(String s) {
+        this.writer.println(s);
+        this.writer.flush();
+    }
+
+    public synchronized void writeLineOld(String s) {
         this.writer.println(s);
     }
 

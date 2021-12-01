@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Main thread :" + Thread.currentThread().getName());
+        System.out.println("Exo5BisMain thread :" + Thread.currentThread().getName());
 
         MySimpleThread t1 = new MySimpleThread();
         t1.start();
