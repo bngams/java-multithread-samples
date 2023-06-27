@@ -1,10 +1,15 @@
 package fr.aelion.java2012.multithreadingintro.demo;
 
+import java.net.http.HttpClient;
+import java.util.List;
 import java.util.concurrent.*;
 
 public class Main {
 
     public static void main(String[] args) {
+
+
+
         System.out.println("Exo5BisMain thread :" + Thread.currentThread().getName());
 
         MySimpleThread t1 = new MySimpleThread();
@@ -19,11 +24,20 @@ public class Main {
             e.printStackTrace();
         }
 
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("Inside thread (lambda) : " + Thread.currentThread().getName());
+            }
+        }).start();
+
         new Thread(() -> {
             System.out.println("Inside thread (lambda) : " + Thread.currentThread().getName());
         }).start();
 
-        ExecutorService executorService = Executors.newSingleThreadExecutor();
+
+
+        ExecutorService executorService = Executors.newFixedThreadPool(2);
         executorService.submit(() -> {
             System.out.println("Inside thread (lambda + executors) : " + Thread.currentThread().getName());
         });

@@ -3,6 +3,7 @@ package fr.aelion.java2012.multithreadingintro.exo2;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Counter implements Runnable {
+    // thread safe type
     private static AtomicInteger rank = new AtomicInteger(0);
     private String name;
     private Integer max;

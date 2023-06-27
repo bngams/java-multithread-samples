@@ -218,6 +218,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Tessi-2104/JSONIO/src/main/java/fr/aelion/java/tessi/json/MainUserItems.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Tessi-2104/JSONIO/src/main/java/fr/aelion/java/tessi/json/models/Player.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../JAVA-Tessi-2104/JSONIO/src/main/java/fr/aelion/java/tessi/json/models/Team.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

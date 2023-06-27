@@ -38,6 +38,7 @@ public class Main {
             // JAVA NIO
             // read from a line
             Files.lines(Paths.get(inputPath))
+                    // .filter()
                     .parallel()
                     .forEach((line) -> {
                         outWriter.writeLine(LineHandler.handleLine(line));

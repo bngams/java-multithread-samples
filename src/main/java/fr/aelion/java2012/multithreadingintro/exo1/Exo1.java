@@ -9,12 +9,20 @@ public class Exo1 {
     public static void main(String[] args) {
         System.out.println(Thread.currentThread().getName());
 
-        List<Runnable> tasks = new ArrayList<>();
-        tasks.add(new Counter("C1"));
-        tasks.add(new Counter("C2"));
-        tasks.add(new Counter("C3"));
 
+        new Thread(new Counter("C1", 22)).start();
+        // ...
+        // ...
+
+        List<Runnable> tasks = new ArrayList<>();
+        tasks.add(new Counter("C1", 22));
+        tasks.add(new Counter("C2", 20));
+        tasks.add(new Counter("C3", 20));
+
+        // Thread Manager
         ExecutorService executorService = Executors.newFixedThreadPool(3);
         tasks.forEach(executorService::submit);
+        executorService.shutdown();
+        // executorService.await...
     }
 }

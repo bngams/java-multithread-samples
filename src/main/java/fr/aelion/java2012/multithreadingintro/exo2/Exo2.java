@@ -15,6 +15,17 @@ public class Exo2 {
         tasks.add(new Counter("C2"));
         tasks.add(new Counter("C3"));
 
+        launchWithExecutor(tasks);
+        // launchWithThread(tasks);
+    }
+
+    private static void launchWithThread(List<Runnable> tasks) {
+        tasks.forEach((task) -> {
+            new Thread(task).start();
+        });
+    }
+
+    private static void launchWithExecutor(List<Runnable> tasks) {
         ExecutorService executorService = Executors.newFixedThreadPool(3);
         tasks.forEach(executorService::submit);
     }

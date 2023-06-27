@@ -1,8 +1,11 @@
 package fr.aelion.java2012.multithreadingintro.exo1;
 
+import lombok.Data;
+
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+@Data
 public class Counter implements Runnable {
     private String name;
     private Integer max;

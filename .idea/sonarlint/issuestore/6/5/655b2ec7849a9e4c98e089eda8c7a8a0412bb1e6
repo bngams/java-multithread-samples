@@ -1,19 +1,19 @@
 
-Fsquid:S1148Y"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÕÈĞ©û.
-Osquid:S1602*",Remove useless curly braces around statement(Ÿ˜Åºûÿÿÿÿ8Áö…ªû.
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(Àûå 8Ğ•Ù“å.
+Usquid:S1611+"2Remove the parentheses around the "line" parameter(Ÿ˜Åºûÿÿÿÿ8é¹¾©û.
+Ysquid:UselessImportCheck"/Remove this unused import 'jdk.jfr.DataAmount'.(›ÊÄ*8öÊªû.
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8é¹¾©û.
+Fsquid:S1148j"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼îÜ“å.
+Fsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÕÈĞ©û.
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(’ôÆà8Ğ•Ù“å.
+Osquid:S1602T",Remove useless curly braces around statement(ÿ¶ÅŠıÿÿÿÿ8´àç©û.
+gsquid:S2147["DCombine this catch with the one at line 89, which has the same body.(ĞĞ¹óúÿÿÿÿ8ÕÈĞ©û.
+bsquid:S2095("DUse try-with-resources or close this "Stream" in a "finally" clause.(Ê¼«æ8äüªû.
+Fsquid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÕÈĞ©û.
+csquid:S2095J"EUse try-with-resources or close this "Scanner" in a "finally" clause.(à¦öÚ8½ùÜ©û.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¼éÌ“å.
 [squid:UselessImportCheck
 "0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¼éÌ“å.
-Ysquid:UselessImportCheck"/Remove this unused import 'jdk.jfr.DataAmount'.(›ÊÄ*8öÊªû.
-V
-squid:S106h"9Replace this use of System.out or System.err by a logger.(Àûå 8Ğ•Ù“å.
-csquid:S2095I"EUse try-with-resources or close this "Scanner" in a "finally" clause.(à¦öÚ8½ùÜ©û.
-Osquid:S1602S",Remove useless curly braces around statement(ÿ¶ÅŠıÿÿÿÿ8´àç©û.
-Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÕÈĞ©û.
-Fsquid:S1148i"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼îÜ“å.
-gsquid:S2147Z"DCombine this catch with the one at line 88, which has the same body.(ĞĞ¹óúÿÿÿÿ8ÕÈĞ©û.
-V
-squid:S106f"9Replace this use of System.out or System.err by a logger.(’ôÆà8Ğ•Ù“å.
-Usquid:S1611*"2Remove the parentheses around the "line" parameter(Ÿ˜Åºûÿÿÿÿ8é¹¾©û.
-bsquid:S2095("DUse try-with-resources or close this "Stream" in a "finally" clause.(Ê¼«æ8äüªû.
-[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¼éÌ“å.
-Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8é¹¾©û.
+Osquid:S1602+",Remove useless curly braces around statement(Ÿ˜Åºûÿÿÿÿ8Áö…ªû.
